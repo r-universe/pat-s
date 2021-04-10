@@ -7,3 +7,4 @@
 	path = oddsratio
 	url = https://github.com/pat-s/oddsratio
 	shallow = true
+	registered = true
